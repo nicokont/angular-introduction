@@ -9,6 +9,13 @@ import { CommonModule } from '@angular/common';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  name: string = "Nikolas";
-  lastName = "Kontaxakis";
+  name: string = 'Nikolas';
+  lastName = 'Kontaxakis';
+
+  person = {
+    givenName: 'Nikolas',
+    surName: 'Kontaxakis',
+    age: 24,
+    email: '@aueb.gr'
+  };
 }
