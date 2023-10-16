@@ -1,5 +1,9 @@
 # Εισαγωγή στο Angular Framework
 
+## 7. Template driven form
+
+## 6. Component Output
+
 ## 5. Event Binding (template -> controller)
 
 - Click handlers
