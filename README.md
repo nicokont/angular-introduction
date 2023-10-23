@@ -1,5 +1,9 @@
 # Εισαγωγή στο Angular Framework
 
+## 12. CRUD users: Read Users
+
+- Πρόσβαση σε template variable μέσω του @ViewChild
+
 ## 10. CRUD users scaffolding
 
 ## 9. Http Client
@@ -17,8 +21,6 @@
 - Two way binding
 
 ## 4. *ngFor Directive
-
-- 
 
 ## 3. Alternate component input
 
